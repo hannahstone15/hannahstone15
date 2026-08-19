@@ -14,6 +14,6 @@ Enterprise SaaS sales, currently at Databricks. Outside of my day job I build sm
 
 ## Connect
 
-- Email: hannahrstone@yahoo.com
-- - LinkedIn: add your link here
-  - 
+Email: hannahrstone@yahoo.com
+
+LinkedIn: add your link here
