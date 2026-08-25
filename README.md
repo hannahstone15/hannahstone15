@@ -6,7 +6,7 @@ Account Executive at Databricks, building Claude Skills for sales teams on the s
 
 This is where I'm building and sharing Claude Skills for account research and sales execution: tools reps can plug straight into Claude to speed up prospecting, account intelligence, and deal prep. Everything here comes from what actually works in a live enterprise sales seat, not theory.
 
-First skill is live: an ICP fit and account intelligence brief generator (github.com/hannahstone15/claude-skills-for-sales).
+Two skills are live: an ICP fit and account intelligence brief generator, and a sales voice kit for writing outbound that sounds human (github.com/hannahstone15/claude-skills-for-sales).
 
 ## Background
 
